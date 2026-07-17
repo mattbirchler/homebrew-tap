@@ -1,9 +1,9 @@
 class Quicksubs < Formula
   desc "Transcribe audio and video files with Apple's on-device speech engine"
   homepage "https://github.com/mattbirchler/quicksubs"
-  url "https://github.com/mattbirchler/quicksubs/releases/download/v1.1.1/quicksubs-1.1.1.zip"
-  sha256 "8cb8c4e1339cea7b2166779fa996b09744cbb35c2f6d76da6266edb6310759fc"
-  version "1.1.1"
+  url "https://github.com/mattbirchler/quicksubs/releases/download/v1.2.0/quicksubs-1.2.0.zip"
+  sha256 "b2b695644f54bdcbb3a96a2b5ca6a7d35af19dfb43a16c18b0e33e53f9d5ad46"
+  version "1.2.0"
 
   depends_on macos: :tahoe
 
