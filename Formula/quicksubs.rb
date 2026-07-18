@@ -1,9 +1,9 @@
 class Quicksubs < Formula
-  desc "Transcribe audio and video files with Apple's on-device speech engine"
+  desc "Transcribe audio and video files with Apple SpeechAnalyzer, OpenAI Whisper, or NVIDIA Parakeet"
   homepage "https://github.com/mattbirchler/quicksubs"
-  url "https://github.com/mattbirchler/quicksubs/releases/download/v1.2.0/quicksubs-1.2.0.zip"
-  sha256 "b2b695644f54bdcbb3a96a2b5ca6a7d35af19dfb43a16c18b0e33e53f9d5ad46"
-  version "1.2.0"
+  url "https://github.com/mattbirchler/quicksubs/releases/download/v1.4.0/quicksubs-1.4.0.zip"
+  sha256 "580d5c7cd6bfa3adac926d7c3c48b8865cdec12606bd235c414782b042118aed"
+  version "1.4.0"
 
   depends_on macos: :tahoe
 
