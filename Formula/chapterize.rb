@@ -1,9 +1,9 @@
 class Chapterize < Formula
   desc "Load audio and subtitle files into the Chapterize Mac app"
   homepage "https://github.com/mattbirchler/chapterize"
-  url "https://github.com/mattbirchler/chapterize/releases/download/v1.1.1/chapterize-1.1.1.zip"
-  sha256 "46f2581dba1a9a739ebf1d02cfa3369c44d9ab199ee24d3a3dfaeaf5a9d5a969"
-  version "1.1.1"
+  url "https://github.com/mattbirchler/chapterize/releases/download/v1.2.0/chapterize-1.2.0.zip"
+  sha256 "9b4b0e4af3658b0b1d0e0d6f75c6b4552b15c9efa55ee6f0580921a4afc1bddc"
+  version "1.2.0"
 
   depends_on macos: :tahoe
 
